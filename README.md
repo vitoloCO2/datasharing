@@ -1,3 +1,10 @@
+# Vitolo Edits
+
+1. trying an hyperlink
+2. trying the refresh to upstream process
+
+I am glad life is straightforward at [Gannon](http://www.gannon.edu).
+
 How to share data with a statistician
 ===========
 
